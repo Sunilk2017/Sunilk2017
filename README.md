@@ -14,7 +14,6 @@
 -        ...... "I've had dreams about finding a new particle... still waiting for that one to come true!"
 -      ....... "Black hole don't scare me-misplacing my telescope does!"
 -    ........ "I once tried calcuting the age of the universe on a napkin at a cafe."
--  ......... "I can explain Advance Nuclear and Particle physics"
 <!---
 Sunilk2017/Sunilk2017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
